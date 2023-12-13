@@ -28,7 +28,10 @@ The voter turnout for each county
 The percentage of votes from each county out of the total count
 The county with the highest turnout
 
+![election_analysis](https://github.com/adarshkhub/Election_Analysis/assets/67844710/66a5154f-1e98-4e4f-b0eb-88959ac9a3ec)
+
 
 ### Analysis
 
+Solid first project which helped understand the basics of python (initializing variables, creating counters, writing loops). Was able to reproduce on google collab.
 
