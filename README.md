@@ -21,6 +21,15 @@ Use decision statements, logical operations for complex comparisons, and repetit
 produce outputs from our code and store them on our computer
 show knowledge of variables, arrays, conditionals, and loops, and installation of new software.
 
+![election_analysis 1](https://github.com/adarshkhub/Election_Analysis/assets/67844710/c8680437-f64b-4fc7-aadb-7e8d7f24f62f)
+
+![election_analysis looping through county dictionary](https://github.com/adarshkhub/Election_Analysis/assets/67844710/b0a278aa-b328-4ab5-82e7-bd425bc1a488)
+
+![election analysis 3](https://github.com/adarshkhub/Election_Analysis/assets/67844710/ce3416b5-269c-4646-9e1a-68504057103c)
+
+
+
+
 ### Results
 
 
